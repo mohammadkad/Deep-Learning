@@ -5,5 +5,5 @@
 https://course.fast.ai
 Deep Learning with Python, Third Edition : https://www.manning.com/books/deep-learning-with-python-third-edition
 -->
-# ---
-nbviewer, A simple way to share Jupyter Notebooks : https://nbviewer.org
+
+- nbviewer, A simple way to share Jupyter Notebooks : https://nbviewer.org
