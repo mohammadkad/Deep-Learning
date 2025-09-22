@@ -16,7 +16,13 @@ Book Summary: Deep Learning with Python, Third Edition, MEAP Edition, Manning Ea
   - Matrices (rank-2 tensors)
   - Rank-3 tensors and higher-rank tensors
 - output = relu(matmul(input, W) + b)
-
-
 <!-- ... -->
+
+<!-- Chapter 15 -->
+- Language Models and the Transformer
+- Attention : attention was actually developed as a way to augment an RNN model. Researchers noticed that while RNNs excel at modeling dependencies in a local neighborhood, they struggled with recall as sequences got longer.
+- Attention : is a mechanism that allows a model to pull information from anywhere in a sequence selectively based on the context of the token currently being processed.
+- The idea with attention is to build a mechanism by which a neural network can give more weight to some part of a sequence and less weight to others contextually, depending on the current input being processed.
+- Transformers are data-hungry models.
+
 
